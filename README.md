@@ -17,7 +17,7 @@ By analyzing customer demographics, services, and contract details, the model id
 ## 📊 Key Findings & Insights
 My analysis identified specific cohorts with the highest risk of attrition:
 
-![Churn Drivers](churn_drivers.png)
+![Churn Drivers](churn-drivers.png)
 
 1.  **Fiber Optic Users are High Risk:**
     * **Insight:** Having Fiber Optic internet is the #1 strongest predictor of churn.
@@ -43,4 +43,5 @@ My analysis identified specific cohorts with the highest risk of attrition:
 1. Clone the repository.
 2. Install dependencies:
    ```bash
+
    pip install -r requirements.txt
